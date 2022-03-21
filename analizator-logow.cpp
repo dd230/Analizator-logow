@@ -1,3 +1,16 @@
+/*
+Rozwiazanie zadania Analizator logow
+Zadanie wymaga u¿ycia map z wlasna definicja uporzadkowania / kolejnosci elementow
+Link do zadania: https://szkopul.edu.pl/problemset/problem/alo/site
+Omowienie: https://youtu.be/oE1AWvTowJ4?t=1636
+Linki/kod/omowienie: https://oki.org.pl/analizator-logow/
+----
+Autor: Olimpijskie Kolo Informatyczne / Daniel Olkowski
+Zajêcia: https://oki.org.pl/harmonogram-zajec/
+Lista zadan z rozwi¹zaniami: https://oki.org.pl/lista-zadan-materialy.php
+Samouczek Programowanie / Olimpiada: https://oki.org.pl/tutorial/
+ */
+
 #include <iostream>
 #include <vector>
 #include <map>
